@@ -1,0 +1,12 @@
+body {
+
+    color: #ef0000;
+    font-family: "Times New Roman", Times, serif;
+    background-color: burlywood;
+  }
+
+  .jumbotron {
+    background-image: url("https://iiif.elifesciences.org/digests/43487%2Fdigest-43487.png/full/full/0/default.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
